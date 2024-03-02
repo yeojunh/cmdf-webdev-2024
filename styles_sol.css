@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+    color: black;
+    align-items: center;
+    font-family: 'Courier New', monospace;
+}
+
+/* li {
+    border: 10px;
+    padding: 10px;
+} */
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.tabs {
+    text-align: center;
+    font-size: 15px;
+}
+
+.destination {
+    margin: 20px;
+    font-size: 30px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding-left: 5%;
+    justify-content: first baseline;
+}
+
+.content-img {
+    width: 30%;
+    margin: 20px;
+}
+
+.footnote {
+    margin-top: 10%;
+    color: seagreen;
+    text-align: center;
+}
+
+#stanley-park {
+    margin-left: 5%;
+}
