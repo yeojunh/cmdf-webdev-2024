@@ -22,6 +22,18 @@ h1 {
     width: 500px;
 }
 
-.itinerary_img {
+.schedule {
+    display: flex;
+    flex-direction: column;
+}
+
+.schedule-img {
     width: 700px;
+}
+
+.schedule-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
 }
