@@ -5,7 +5,7 @@ body {
     text-align: center;
 }
 
-ul {
+ul, ol {
     display: inline-block;
     text-align: left;
 }
@@ -16,4 +16,12 @@ h1 {
 
 .plane {
     width: 50%;
+}
+
+.sailboat {
+    width: 500px;
+}
+
+.itinerary_img {
+    width: 700px;
 }
