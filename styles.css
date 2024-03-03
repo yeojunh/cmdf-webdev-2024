@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: lightblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.plane {
+    width: 50%;
+}
