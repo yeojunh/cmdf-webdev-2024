@@ -25,3 +25,15 @@ h1 {
 .schedule-img {
     width: 700px;
 }
+
+.schedule {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.schedule-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
